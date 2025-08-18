@@ -1,6 +1,6 @@
 # Exercise Tracker
 
-A full stack JavaScript app which purpose is to shorten any given url.
+A full stack JavaScript app which purpose is to help track any user's physical activity.
 
 ## Stack
 - JavaScript
